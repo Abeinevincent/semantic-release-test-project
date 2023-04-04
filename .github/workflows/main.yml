@@ -45,6 +45,6 @@ jobs:
           node-version: ${{ matrix.node }}
       - run: npm ci
       - run: npm run semantic-release
-    env: 
+    env:
       NPM_TOKEN: ${{secrets.NPM_TOKEN}}
-      GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      SECRET_TOKEN_GITHUB: ${{secrets.SECRET_TOKEN_GITHUB}}
