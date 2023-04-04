@@ -60,18 +60,24 @@
     "@types/react": "^18.0.33",
     "@types/react-dom": "^18.0.11",
     "babel-loader": "^9.1.2",
+    "cz-conventional-changelog": "^3.3.0",
     "husky": "^8.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-is": "^18.2.0",
+    "semantic-release": "^21.0.1",
     "size-limit": "^8.2.4",
     "tsdx": "^0.14.1",
     "tslib": "^2.5.0",
-    "typescript": "^3.9.10",
-    "semantic-release": "^21.0.1"
+    "typescript": "^3.9.10"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/Abeinevincent/semantic-release-test-project.git"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
