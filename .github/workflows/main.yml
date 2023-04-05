@@ -33,7 +33,7 @@ jobs:
 
   publish:
     runs-on: ubuntu-latest
-    if: ${{github.ref == 'refs/heads/testbranch'}}
+    if: ${{github.ref == 'refs/heads/master'}}
     needs: [quality]
     steps:
       - name: Checkout repo

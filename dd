@@ -1,0 +1,125 @@
+[33mcommit 4fd799ff01eb571ab8ba68458dbae6fa5479f153[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Wed Apr 5 09:36:42 2023 +0300
+
+    First Release Readay
+
+[33mcommit 5b71d88eae54c449c644424a2a0843750f5aa553[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 16:18:08 2023 +0300
+
+    First Release Readay
+
+[33mcommit b97ccde8f100e747e89efad0aafcbd6a63616980[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 16:02:48 2023 +0300
+
+    First Release Readay
+
+[33mcommit b535ab19d51e4e968d391b5349f1d868c51b0901[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 15:43:32 2023 +0300
+
+    First Release Readay
+
+[33mcommit 922ae68a92d332631aa482a6e6866db336832998[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 15:32:22 2023 +0300
+
+    First Release Readay
+
+[33mcommit 9407916d67e771f95bcd17776806e5d234661926[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 15:19:59 2023 +0300
+
+    fix: fixed Bug in Yaml File
+
+[33mcommit b3759646571f67b7da524f458995597ff66277b9[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 15:12:57 2023 +0300
+
+    feat(yaml file): updates and First Release
+
+[33mcommit fa669e44bd1c022a72e807b675748a9434d4bcc3[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 15:05:00 2023 +0300
+
+    First Release Ready
+
+[33mcommit ac7ca7d4ce9e8e7e818d9d2ea5286834ad0115f1[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 15:03:18 2023 +0300
+
+    First Release Ready
+
+[33mcommit 1a99c39633f9cff309d74eecbe39872aee3496d9[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 14:51:46 2023 +0300
+
+    First Release Ready
+
+[33mcommit 8a9b5703db60beed18ea3636e65cffd867277775[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 14:44:15 2023 +0300
+
+    First Release Ready
+
+[33mcommit e8bca7aa1b7acdcc241d852de09e7084cdc2b502[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 14:31:27 2023 +0300
+
+    First Release Ready
+
+[33mcommit cccb8af0f62e86752744587fc31de9de2a3a285c[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 13:49:06 2023 +0300
+
+    First Release Ready
+
+[33mcommit 014c3724d973db91623b0980296bbd79e55b77b7[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 13:02:30 2023 +0300
+
+    fix(file issue): updated yaml file
+
+[33mcommit 1269d4978933cea678d173ef868c40cea1c25cbe[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 12:50:54 2023 +0300
+
+    fix(updated yaml file): updated yml file
+
+[33mcommit bd29b67d6adf71d625167b70714f58ea6cd23eba[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 12:21:47 2023 +0300
+
+    First Release Ready
+
+[33mcommit aab1536d3fff7203ee9cb7a9725177097336b8d4[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 12:09:37 2023 +0300
+
+    feat(test-feature): i am making this commit only for testing
+
+[33mcommit 0ba5d28377437c39c43973dd78a5b5e6914e55c3[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 11:48:03 2023 +0300
+
+    Added Semantic Release
+
+[33mcommit 40705ba7a35ae80bc2e675b73c336609f817a1fe[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 11:37:08 2023 +0300
+
+    Added Semantic Release
+
+[33mcommit d8bf949dff326c7f36f0693ea7eb512524c89300[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 11:13:36 2023 +0300
+
+    Test Commit CI/CD
+
+[33mcommit 66d5273e3805012450a22106f0c6e952f160cfac[m
+Author: Abeinevincent <abeinevincent@gmail.com>
+Date:   Tue Apr 4 10:59:18 2023 +0300
+
+    Test Commit
